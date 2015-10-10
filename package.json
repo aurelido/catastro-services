@@ -1,0 +1,24 @@
+{
+  "name": "catastro-services",
+  "version": "1.0.0",
+  "description": "Consumes ovc.catastro.meh.es services",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelido/catastro-services.git"
+  },
+  "keywords": [
+    "catastro",
+    "public",
+    "services"
+  ],
+  "author": "Aurelio Aragonés Banegas <aurelio.aragones@gmail.com> (http://www.aragonesbanegas.com/slidefolio/index.html)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aurelido/catastro-services/issues"
+  },
+  "homepage": "https://github.com/aurelido/catastro-services#readme"
+}
