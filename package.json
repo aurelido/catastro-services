@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/aurelido/catastro-services/issues"
   },
-  "homepage": "https://github.com/aurelido/catastro-services#readme"
+  "homepage": "https://github.com/aurelido/catastro-services#readme",
+  "dependencies": {
+    "wms-client": "2.0.2"
+  }
 }
