@@ -9,9 +9,10 @@ To get the Node server running locally:
 - Run MongoDB by executing `mongod --dbpath ./data/db/`. Now MogoDB is runing on port 27017
 - `npm run dev` to start the local server
 
-Alternately, to quickly try out this repo in the cloud, you can [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/realworld)
-
 # Code Overview
+
+## References
+Project based in https://github.com/gothinkster/react-redux-realworld-example-app
 
 ## Dependencies
 
